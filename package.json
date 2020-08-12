@@ -8,7 +8,7 @@
   "dependencies": {
     "@contentful/gatsby-transformer-contentful-richtext": "12.1.2",
     "@researchgate/react-intersection-observer": "0.7.4",
-    "babel-plugin-styled-components": "1.10.0",
+    "babel-plugin-styled-components": "1.10.7",
     "cheerio": "1.0.0-rc.2",
     "gatsby": "^2.0.76",
     "gatsby-image": "^2.0.26",
