@@ -10,7 +10,7 @@
     "@researchgate/react-intersection-observer": "0.7.4",
     "babel-plugin-styled-components": "1.10.0",
     "cheerio": "1.0.0-rc.2",
-    "gatsby": "^2.0.76",
+    "gatsby": "^2.0.84",
     "gatsby-image": "^2.0.26",
     "gatsby-plugin-catch-links": "^2.0.9",
     "gatsby-plugin-google-analytics": "^2.0.13",
